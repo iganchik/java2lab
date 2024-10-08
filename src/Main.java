@@ -21,7 +21,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        // Вызов функции для проверки IP-адреса
+        
         inputip();
     }
 }
